@@ -31,7 +31,7 @@ fun()
 ```
 
 ## Output:
-![OUTPUT]](square_root.png)
+![OUTPUT](https://github.com/Lutheeshgoparapu/Square-root-of-a-number/blob/main/square_root.png?raw=true)
 
 
 ## Result:
